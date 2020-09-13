@@ -1,2 +1,2 @@
 # DeepLearningAi
-DeepLearningAi Specialization Course by Andrew Ng.
+DeepLearningAi Specialization Course by Andrew Ng
